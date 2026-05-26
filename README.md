@@ -84,3 +84,103 @@ B站俞浩访谈视频
 📖 追觅俞浩刷屏全网，但他最值得学的不是百万亿目标 · dehaze毋霾社
 
 本Skill遵循 MIT License，可自由使用和修改，注明来源即可。
+
+TestFirst · The Yu Hao Decision System
+How the founder of Dreame built 100% YoY growth for 8 years — and how you can steal his playbook
+
+"Instead of insight, run a test." — Yu Hao, Founder & CEO of Dreame Technology
+
+
+What This Is
+A Skill file you can drop directly into Claude, ChatGPT, or any AI tool with system prompt support.
+It reverse-engineers the decision-making framework behind Dreame Technology's 100%+ compound annual growth for 8 consecutive years — and turns it into actionable SOPs you can use today.
+Not a biography. Not a business case study.
+A runnable decision system — load it into your AI tool, and it will analyze your problems through Yu Hao's mental models.
+
+The Story Behind This
+During China's Labor Day holiday 2026, Dreame founder Yu Hao posted 117 videos in a single day across every major platform. He then ordered all 22,000 employees to open social media accounts and post 3 videos per day, with cash prizes up to ¥100,000 for hitting follower milestones.
+Everyone assumed this was a PR stunt.
+Then Yu Hao said something that reframed everything:
+
+"I have no idea which video will go viral. The ones I think will blow up don't. The ones I think will flop, blow up."
+
+He wasn't doing marketing. He was running experiments.
+22,000 employees posting simultaneously = 22,000 parallel experiments running at the same time. Each one testing the platform algorithm. Data comes back. Patterns emerge. Patterns become SOPs. SOPs get scaled.
+This is the same logic behind every Dreame product decision: Minimum Viable Bet.
+Don't bet on intuition. Test with minimum cost. Let real market data correct your direction.
+This exact framework is why Dreame launched a lawnmower robot at $1,999 — twice the industry standard — while competitors were racing to the bottom at $499. It sold out. Q1 2026 sales grew 174% YoY.
+
+What's Inside
+testfirst-yuhao-perspective/
+├── README.md          ← You're reading this
+└── SKILL.md           ← The core file to load into your AI tool
+SKILL.md contains:
+▎5 Mental Models — Minimum Viable Bet, N+1 Innovation, First-Principles Thinking, Left-Right Model, Engineer's Correction System
+▎6-Question Decision Checklist — Ask yourself these before any major decision to prevent gut-feel bets
+▎N+1 Three-Step SOP — Find the pain → Identify your +1 → Run a minimum test. With specific actions for each step.
+▎Content Growth Playbook — The logic behind Yu Hao's 117-video experiment, broken into repeatable steps
+▎Honest Limitations — Where this framework doesn't apply
+
+How to Use It
+Option 1: Claude Projects (Recommended)
+
+Go to Claude.ai → Projects → Create new project
+Paste the full content of SKILL.md into Project Instructions
+Start a conversation and ask:
+
+Use the N+1 framework to analyze this product idea: [your idea]
+I'm building in the [category] space. Help me find the single most important user pain point.
+Use Yu Hao's minimum viable bet logic to design a validation plan for: [your hypothesis]
+Option 2: OpenClaw / Hermes Agent
+
+Download SKILL.md
+Place it in your .claude/skills/ folder
+Trigger with: Yu Hao perspective, N+1 analysis, minimum viable bet
+
+Option 3: Any AI Tool
+Copy the contents of SKILL.md and paste it as a system prompt at the start of any conversation.
+
+Who This Is For
+✅ Early-stage founders — Limited resources, can't afford big mistakes, need to validate before scaling
+✅ Product managers — Need to validate assumptions before shipping, not just follow intuition
+✅ Content creators — Don't know what will resonate, need a systematic testing approach instead of guessing
+✅ Hardware / consumer product builders — N+1 works best in markets where a mature "N" already exists
+
+Who This Is NOT For
+❌ Pure software / internet products (Yu Hao's experience is concentrated in hardware manufacturing)
+❌ True 0→1 category creation (N+1 requires a mature "N" to build on)
+❌ Mature businesses with abundant market validation data already
+
+The Evidence Behind This Framework
+Every method in this Skill is backed by Dreame's real business outcomes:
+FrameworkReal CaseResultN+1 InnovationApplied automotive LiDAR to lawnmowers$1,999 price point while competitors sold at $499 — sold out. 174% YoY growth in Q1 2026Minimum Viable BetHigh-frequency social media posting to test algorithms117 videos/day → found patterns → scaled to 22,000 employeesTechnology CompoundingHigh-speed motor → vacuum → lawnmower → EV → robotics100%+ CAGR for 8 consecutive yearsLeft-Right ModelCore business profitability funds new venture experiments8-year cumulative profit — contrasted with Leshi's collapse
+
+The One Sentence That Changes How You Make Decisions
+
+"The gap between what a CEO calls 'intuition' and what a great engineer calls 'judgment' isn't that large. The difference is — a CEO's mistakes go uncorrected. An engineer's mistakes get corrected by the system."
+— Yu Hao
+
+Most founders make big decisions based on intuition, then pay tuition fees in the market.
+This Skill helps you build the correction system.
+
+Files
+FileDescriptionREADME.mdThis documentSKILL.mdThe full decision framework — load this into your AI tool
+
+Sources
+
+Interface News: Unveiling Dreame's "Universe": The ¥100 Trillion Dream
+Huxiu: Dreame's Yu Hao and His Aggressive Expansion
+36Kr / Titanium Media / DoNews interviews
+Yu Hao video interviews on Bilibili
+
+Data current as of: May 2026
+Created by: dehaze毋霾社 · Follow on WeChat for more frameworks like this
+
+If This Was Useful
+Hit ⭐ Star in the top right corner.
+It's the best way to support this work — and helps other founders find it.
+
+Related
+📖 The article that inspired this Skill · dehaze毋霾社 on WeChat
+
+MIT License — free to use and modify with attribution.
