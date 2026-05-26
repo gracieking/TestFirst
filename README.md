@@ -1,4 +1,4 @@
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/59b7b430-8278-41a9-9b4d-05cef371ddc2" /><img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/65373b66-06b9-49f2-b38f-f313db61057b" /># TestFirst · 测试优先
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/59b7b430-8278-41a9-9b4d-05cef371ddc2" /># TestFirst · 测试优先
  
 > 追觅俞浩的极小试错决策系统
 >
